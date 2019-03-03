@@ -4,7 +4,6 @@ Here we try to capture best coding practice with Java.
 
 
 ### [Best coding practice for Java](https://github.com/hgvanpariya/code/blob/master/java/java_main.md)
-[Best coding practice for Java](https://github.com/hgvanpariya/code/blob/master/java/java_main.md)
 
 
 
