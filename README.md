@@ -6,8 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
-### [Best coding practice for Java] (https://github.com/hgvanpariya/code/blob/master/java/java_main.md)
-
+### [Best coding practice for Java](https://github.com/hgvanpariya/code/blob/master/java/java_main.md)
+[Best coding practice for Java](https://github.com/hgvanpariya/code/blob/master/java/java_main.md)
 
 ### Markdown
 
