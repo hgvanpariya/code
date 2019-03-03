@@ -3,7 +3,7 @@
 Here we try to capture best coding practice with Java.
 
 
-### [Best coding practice for Java](https://github.com/hgvanpariya/code/blob/master/java/java_main.md)
+### [Best coding practice for Java](https://hgvanpariya.github.io/code/java/)
 #### [Checking if a string is empty or null](https://hgvanpariya.github.io/code/java/Checking_if_a_string_is_empty_or_null/)
 #### [Convert ArrayList to Array](https://hgvanpariya.github.io/code/java/convert_arrayList_to_array/)
 
