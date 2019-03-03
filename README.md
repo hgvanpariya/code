@@ -4,6 +4,11 @@ You can use the [editor on GitHub](https://github.com/hgvanpariya/code/edit/mast
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+
+
+### [Best coding practice for Java] (https://github.com/hgvanpariya/code/blob/master/java/java_main.md)
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
